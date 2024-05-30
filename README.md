@@ -3,7 +3,7 @@
 - [1. Little Lemon](#little-lemon)
 - [2. Theme Verse](#theme-verse) 
 
-**_These are some huge projects that I have created (No one is full-stack currently). These projects encompass all the React concepts that I have mentioned in [React Notes](https://github.com/Gitstar-OC/React-Notes). The code for these projects is stored in separate repositories so I can update them as needed. You can also make pull requests if you want to contribute, and I will review your changes._**
+**_These are some huge projects that I have created (No one is full-stack currently) . These projects encompass all the React concepts that I have mentioned in [React Notes](https://github.com/Gitstar-OC/React-Notes). The code for these projects is stored in separate repositories so I can update them as needed. You can also make pull requests if you want to contribute, and I will review your changes._**
 
 <a name="little-lemon"></a>
 - ### 1. [Little Lemon Coursera](https://github.com/Gitstar-OC/Little-Lemon-Coursera)
